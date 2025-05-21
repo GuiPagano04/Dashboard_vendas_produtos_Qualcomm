@@ -1,5 +1,8 @@
 # Dashboard_vendas_produtos_Qualcomm
 
+Link do projeto no Power BI Online: 
+https://app.powerbi.com/groups/me/reports/54cb7d08-2561-4dee-b15b-322da3e3da99/f84493600ec95e5c0908?language=pt-BR&experience=power-bi
+
 Recentemente participei de um processo seletivo na Qualcomm — e esse foi o dashboard que desenvolvi como desafio técnico.
 Uma experiência intensa, mas super enriquecedora. Agora compartilho esse projeto como parte do meu portfólio. 💡📊
 
@@ -46,5 +49,4 @@ A apresentação resume os aprendizados mais importantes extraídos da análise:
 
 - Concentração (ou não) de faturamento entre produtos
 
-Link do projeto no Power BI Online: 
-https://app.powerbi.com/groups/me/reports/54cb7d08-2561-4dee-b15b-322da3e3da99/f84493600ec95e5c0908?language=pt-BR&experience=power-bi
+
