@@ -32,5 +32,19 @@ Mapa interativo + matriz exploratória para cruzar vendas por produto e região.
 Análise de concentração por produto, processador e país.
 Insights: distribuição equilibrada nas vendas, Intel liderando em participação de mercado por estar presente em mais produtos, e Apple crescendo em 2023.
 
+Complementando o projeto de BI, criei uma apresentação coorporativa que preparei com os principais insights extraídos da base de vendas do desafio técnico.
+
+A apresentação resume os aprendizados mais importantes extraídos da análise:
+
+- Queda recorrente em julho
+
+- Mudança de comportamento em agosto
+
+- Produtos mais vendidos por país
+
+- Participação de mercado por processador
+
+- Concentração (ou não) de faturamento entre produtos
+
 Link do projeto no Power BI Online: 
 https://app.powerbi.com/groups/me/reports/54cb7d08-2561-4dee-b15b-322da3e3da99/f84493600ec95e5c0908?language=pt-BR&experience=power-bi
